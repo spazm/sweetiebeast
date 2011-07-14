@@ -24,7 +24,7 @@
         <header>
             <nav>
                 <ul id="menu">
-                    <li id="menu_active"><a href="<% request.uri_for('/') %>">news</a></li>
+                    <li id="menu_active"><a href="<% uri_for_index %>">news</a></li>
                     <li><a href="<% uri_for_faq %>"        >faq</a></li>
                     <li><a href="<% uri_for_location %>"   >location</a></li>
                     <li><a href="<% uri_for_directions %>" >directions</a></li>
