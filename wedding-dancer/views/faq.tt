@@ -1,13 +1,45 @@
-<h1>Questions and Answers (FAQ)</h1>
+<h2><span>Questions</span> and Answers (FAQ)</h2>
 
 <dl>
-<dt>When are you getting Married?
+
+<dt><span>When</span> are you getting Married?
 <dd>Saturday July 30, 2011.
-<dt>What City are you getting Married in?
-<dd>Ann Arbor, Michigan
-<dt>Why Ann Arbor?
-<dd>Tilly's mother can't currently fly, Tilly wants her mother at the ceremony, The ceremony needs to be in the US, Tilly's brother Jon lives in Ann Arbor,  Tilly's Mother can make the drive to Ann Arbor.  Add that all up and you'll see.
-<dt>How did you propose?
+
+<dt><span>Where</span> are you getting Married?
+<dd>We are getting married in <em>Ann Arbor, Michigan</em>.
+<dd>Our outdoor ceremony will be at the <em>Law Quad</em> on campus.
+<dd>Our reception will be at the <em>Campus Inn</em>.  
+<dd> See the <a href="<% uri_for_location %>" >Location</a> page for more details.
+
+<dt><span>Why</span> Ann Arbor?
+<dd>Tilly's mother can't currently fly, Tilly wants her mother at the ceremony, The ceremony needs to be in the US, Tilly's brother John lives in Ann Arbor,  Tilly's Mother can make the drive to Ann Arbor.  
+<dd>Add that all up and you get: Ann Arbor, Mi.
+
+<dt><span>How</span> do I get to Ann Arbor?  Where will I stay?
+<dd>Fly into Detroit's DTW airport.  
+<dd> We have several blocks of hotel rooms.  We'll update when we pick the preferred spot.
+<dd> See the <a href="<% uri_for_travel %>" >Travel and Accomodations</a> page for more details.
+
+<dt><span>How Big</span> is the wedding?
+<dd>We're having a smallish, family wedding with a few friends.  We're expecting 30-50 people.
+
+<dt><span>What</span> should I wear?
+<dd> The groom will be in a tuxedo (black tie, no tails).  Tilly will be in her fairy tale dream wedding dress. 
+<dd> Men shall wear suits to the ceremony (summer suits are lovely).  Suit coat not required for the rehearsal dinner on Friday.
+
+<dt><span>Who</span>?
+<dd>Tilly ( Victoria Matilda Pottow ) and Andrew (Andrew Grangaard) are the sweetiebeasts in question.
+
+<dt><span>What</span>?
+<dd>Tilly and Andrew are engaged!  We're getting married!  
+<dd>Andrew proposed! Tilly said "YES!"
+
+<dt><span>How did</span> you propose?
 <dd>I took Tilly to the LACMA (Los Angeles County Museum of Art) for a picnic, the same location as our first date.  After a lovely cheese filled picnic, I gave Tilly a dozen pink roses then got down on my knee and asked if she would marry me.  She said yes.  Simba watched with approval.
-<dt>How did you meet?
-<dd> We met in November 2009, at a mindshare.la event.  I got her information so I could help her find a local frisbee game.  We met again at mindshare a few months later.  I then finally called her to invite her to a frisbee game.  We met another random time at the OK Go concert at LACMA.  I finally got her and some friends to come to Diesel's going away party.  Then I finally asked her out, to the last day of the Renoir exhibit at the LACMA.  Our first date was on mother's day 2010.
+
+<dt><span>How did</span> you meet?
+<dd> We met in November 2009, at a mindshare.la event.  Andrew acquired Tilly's contact information so he could help her find a local frisbee game.  
+<dd> We met again at mindshare a few months later.  Andew finally called Tilly to invite her to a frisbee game.  Tilly showed up ready to play, but was barred by the opponent's captain.  Andrew played really well to impress Tilly, she didn't seem to notice.
+<dd>We met another random time at the OK Go concert at LACMA.  We had a fun time and danced the night away.
+<dd>Andrew finally got Tilly and some friends to come to a party -- Diesel's going away party at Alibi.  Tilly's friends left early, leaving Andrew responsible for getting her home.  
+<dd> Andrew finally asked Tilly out on a proper date -- to the Renoir exhibit at the LACMA.  Their first date was on the last day of the exhibit: Sunday, May 9, 2010, ( mother's day ).
