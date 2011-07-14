@@ -13,6 +13,9 @@
     <script type="text/javascript">/* <![CDATA[ */
         !window.jQuery && document.write('<script type="text/javascript" src="<% request.uri_base %>/javascripts/jquery.js"><\/script>')
     /* ]]> */</script>
+    <script type="text/javascript" src="<% request.uri_base %>/javascripts/cufon-yui.js"></script>
+    <script type="text/javascript" src="<% request.uri_base %>/javascripts/cufon-replace.js"></script>
+    <script type="text/javascript" src="<% request.uri_base %>/javascripts/Myriad_Pro_300.font.js"></script>
 
 </head>
 <body>
@@ -27,25 +30,27 @@
                     <li><a href="<% uri_for_directions %>" >directions</a></li>
                 </ul>
             </nav>
-            <h1><a href="index.html" id="logo">Our Wedding</a></h1>
-
         </header>
+        <section id="content">
+            <article class="col1">
+                <div class="wrapper">
+                    <% content %>
+                </div>
+            </article>
+        </section>
     </div>
-    <section id="content">
-        <article class="col1">
-            <div class="wrapper">
-                <% content %>
-            </div>
-        </article>
-    </section>
+    <div class="block"></div>
 </div>
-<div class="block"></div>
 <div class="body1">
     <div class="main">
         <footer>
-Powered by <a href="http://perl.org">Perl</a> and <a href="http://perldancer.org/">Dancer</a> <% dancer_version %>
+        Powered by 
+            <a href="http://perl.org">Perl</a> and 
+            <a href="http://perldancer.org/">Dancer</a> v.<% dancer_version %>. 
+        <br><a href="http://github.com/spazm/sweetiebeast" >Source</a>
         </footer>
     </div>
 </div>
+<script type="text/javascript"> Cufon.now(); </script>
 </body>
 </html>
