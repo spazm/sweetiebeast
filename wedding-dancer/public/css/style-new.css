@@ -56,10 +56,19 @@ a {
     outline:none
 }
 a:hover {text-decoration:none}
-h1 {padding:57px 0 0 96px}
 h1 span {color:#ad1912}
-h2 {font-size:26px;color:#383838;line-height:34px;padding:18px 0 9px 0;letter-spacing:-1px}
 h2 span {color:#ad1912}
+h3 span {color:#ad1912}
+h1 {
+    padding:57px 0 0 96px
+}
+h2 {
+    font-size:26px;
+    color:#383838;
+    line-height:34px;
+    padding:18px 0 9px 0;
+    letter-spacing:-1px
+}
 p {padding-bottom:20px}
 /* header */
 header {
@@ -98,6 +107,26 @@ header {
 #menu li a:hover, #menu #menu_active a {
     color:#ad1912
 }
+
+dl {
+    margin-top:0;
+    padding-top:0;
+    padding-bottom:30;
+}
+dd {
+    padding-top:0;
+    padding-bottom:20;
+}
+dt {
+    padding-top:0;
+    padding-bottom:10;
+    font-size:16px;
+    color:#383838;
+    line-height:16px;
+    padding:8px 0 4px 0;
+    letter-spacing:-1px
+}
+dt span {color:#ad1912}
 
 
 /* content */
