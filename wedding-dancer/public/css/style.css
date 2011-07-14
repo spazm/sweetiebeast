@@ -10,6 +10,7 @@ body {
  * background-repeat: no-repeat;
  * background-position: top left;
  */
+    background:url("/images/bg_img.jpg") 
 
     font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
     font-size:   13px;
