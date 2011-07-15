@@ -17,4 +17,5 @@ Our reception will be at <a href="http://www.campusinn.com/michigan-wedding.html
 </a>
 <p>
 <h3><span>Photos</span>: Law Quad, Campus Inn</h3>
-<img width=50% src="/images/aerial-quad.jpg"><img width=50% src="/images/campus_inn_round_table.jpg">
+<img width=50% src="<% uri_for_images %>/aerial-quad.jpg" ><img
+     width=50% src="<% uri_for_images %>/campus_inn_round_table.jpg">
