@@ -1,18 +1,36 @@
-<div id="page">
-<h1>We're getting Married!</h1>
-<p align=center>
+<h2><span>We're</span> getting Married!</h1>
 Victoria "Tilly" Pottow and Andrew Grangaard are engaged! 
 <br>Our wedding will be Saturday, July 30, 2011!
-</p>
-<h1>Latest News</h1>
+<h2><span>Latest</span> News</h1>
 
 <dl>
-<dt>July 5: We've booked the location.
-<dd>We put down a deposit on the <a href="<% request.uri_for('/location') %>">location</a> this morning. We'll be at the The Campus Inn.  We have the hall from 3pm-midnight, our party time is still to-be-determined.
+<dt><span>July 14</span>: Website: coming soon!
+<dd>Busily building theme for website, making up A's and FQ's to go on the <a href="<% uri_for_faq %>">FAQ</a>
 
-<dt>July 4: Happy Independence day
+<dt><span>July 13</span>: Tuxedos, tastings and guest counts.
+<dd>Our Ann Arbor helpers attended the tasting in our stead. Thanks to you all! 
+<br>Winners: Sea Bass, Prime Rib, Mushroom Soup, Potato and Leek au gratin.
+<dd>&nbsp;
+<dd>Andrew ordered Simba's tuxedo today, still needs to get his own tux ready.
+<dd>&nbsp;
+<dd>Guest list is starting to pull together.  Please let us know when you've booked your flights.
+
+<dt><span>July 11</span>: It's official, we have an officiant!
+<dd>Tilly's brother John is newly ordained for the purposes of officiating our wedding.  Thanks John!
+
+<dt><span>July 9</span>: Still more flights
+<dd>Bought tickets for Andrew's family, PDX &lt;-&gt; DTW, July 28-31st.
+
+<dt><span>July 8</span>: More flights
+<dd>Bought tickets for Tilly and a surprise guest.
+
+<dt><span>July 7</span>: Flights
+<dd>Bought tickets for Andrew and Antony. LAX &lt;-&gt; DTW, July 28-31st.
+
+<dt><span>July 5</span>: We've booked the location.
+<dd>We put down a deposit on the <a href="<% uri_for_location %>">location</a> this morning. We'll be at the The Campus Inn.  We have the hall from 3pm-midnight, our party time is still to-be-determined.
+
+<dt><span>July 4</span>: Happy Independence day!
 <dd>Update: Tilly has her dress, we've picked the ceremony and reception locations.  Hotel room blocks are booked, but we're still looking for other hotel options.  Delta has a hub in detroit, but flights are still ridiculous.
 
 </dl>
-
-</div>
