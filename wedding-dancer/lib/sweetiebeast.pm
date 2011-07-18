@@ -15,7 +15,7 @@ before_template sub {
     $tokens->{uri_for_location}   = proxy->uri_for("/location");
     $tokens->{uri_for_travel}     = proxy->uri_for("/travel");
     $tokens->{uri_for_guests}     = proxy->uri_for("/guests");
-	$tokens->{uri_for_images}     = proxy->uri_for("/images");
+    $tokens->{uri_for_images}     = proxy->uri_for("/images");
 };
 
 
