@@ -1,3 +1,14 @@
-<h2>Guest List</h2>
 
+<h2><span>Guest's</span> TODO checklist:</h2>
+<ol>
+<li>Book your flight to DTW and tell us when you land.
+( <a href="<% uri_for_travel %>" >Travel & Accomodations</a> )
+<li>Tell us your main course dinner preference: <em>prime rib, seabass or veggie ravioli</em>.
+<li>Call the hotel and book a room at the <em>Ann Arbor Regent</em>.
+( <a href="<% uri_for_travel %>" >Travel & Accomodations</a> )
+<li>Have a wonderful time!  Thank you for sharing this special day with us.
+</ul>
+
+
+<h2>Guest List</h2>
 <h3><span>Coming</span> Soon...</h3>

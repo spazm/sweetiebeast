@@ -4,17 +4,24 @@ Victoria "Tilly" Pottow and Andrew Grangaard are engaged!
 <h2><span>Latest</span> News</h1>
 
 <dl>
+<dt><span>July 17</span>: Locations, Food, Accomodations
+<dd>Corrected location for ceremony on 
+<a href="<% uri_for_location %>">Location</a> page.
+<dd>Added Rehearsal Dinner to 
+<a href="<% uri_for_location %>">Location</a> page.
+
+<dd>Added hotel to <a href="<% uri_for_travel %>">Travel & Accomodations</a> page.
+<dd>Added dinner food options to the <a href="<% uri_for_faq %>">FAQ</a>.
+<dd>Tilly found her wedding shoes: a pair of flip flops and a pair of five inch heels.
+
 <dt><span>July 14</span>: Website: coming soon!
 <dd>Busily building theme for website, making up A's and FQ's to go on the <a href="<% uri_for_faq %>">FAQ</a>
 
 <dt><span>July 13</span>: Tuxedos, tastings and guest counts.
 <dd>Our Ann Arbor helpers attended the tasting in our stead. Thanks to you all! 
 <br>Winners: Sea Bass, Prime Rib, Mushroom Soup, Potato and Leek au gratin.
-<dd>&nbsp;
 <dd>Andrew ordered Simba's tuxedo today, still needs to get his own tux ready.
-<dd>&nbsp;
 <dd>Guest list is starting to pull together.  Please let us know when you've booked your flights.
-<dd>&nbsp;
 <dd>Bridesmaids dresses: Ordered!
 
 <dt><span>July 11</span>: It's official, we have an officiant!
