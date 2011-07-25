@@ -29,6 +29,7 @@
                     <li><a href="<% uri_for_location %>"   >location</a></li>
                     <li><a href="<% uri_for_travel %>"     >travel & accomodations</a></li>
                     <li><a href="<% uri_for_guests %>"     >guests</a></li>
+                    <li><span><a href="http://www.honeyfund.com/wedding/pottow" target="_new" >honeymoon registry</a></span></li>
                 </ul>
             </nav>
         </header>
